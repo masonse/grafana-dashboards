@@ -59,7 +59,16 @@
   "gnetId": 9009,
   "graphTooltip": 0,
   "id": null,
-  "links": [],
+  "links": [
+    {
+      "icon": "external link",
+      "tags": [],
+      "targetBlank": true,
+      "title": "Mesosphere DC/OS Documentation",
+      "type": "link",
+      "url": "http://docs.mesosphere.com"
+    }
+  ],
   "panels": [
     {
       "cacheTimeout": null,
@@ -1624,7 +1633,7 @@
     ]
   },
   "timezone": "utc",
-  "title": "/Mesosphere DC/OS - Overview - Agents",
+  "title": "Mesosphere DC/OS Agents Overview",
   "uid": "1KcxACrmz",
-  "version": 4
+  "version": 5
 }
