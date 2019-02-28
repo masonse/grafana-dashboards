@@ -16,7 +16,7 @@
   "editable": true,
   "gnetId": 9006,
   "graphTooltip": 0,
-  "id": 28,
+  "id": 29,
   "links": [],
   "panels": [
     {
@@ -2009,7 +2009,7 @@
     ]
   },
   "timezone": "",
-  "title": "1.12 DC/OS NEW Overview Dashboard",
-  "uid": "CROh9F1ij",
+  "title": "1.12 DC/OS New Overview Dashboard",
+  "uid": "8g0aOC9ik",
   "version": 1
 }
